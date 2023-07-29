@@ -1,0 +1,8 @@
+D:\M\OSL\Section8\Sec8\Sec8\bin\Debug\Sec8.exe.config
+D:\M\OSL\Section8\Sec8\Sec8\bin\Debug\Sec8.exe
+D:\M\OSL\Section8\Sec8\Sec8\bin\Debug\Sec8.pdb
+D:\M\OSL\Section8\Sec8\Sec8\obj\Debug\Sec8.csproj.AssemblyReference.cache
+D:\M\OSL\Section8\Sec8\Sec8\obj\Debug\Sec8.csproj.SuggestedBindingRedirects.cache
+D:\M\OSL\Section8\Sec8\Sec8\obj\Debug\Sec8.csproj.CoreCompileInputs.cache
+D:\M\OSL\Section8\Sec8\Sec8\obj\Debug\Sec8.exe
+D:\M\OSL\Section8\Sec8\Sec8\obj\Debug\Sec8.pdb

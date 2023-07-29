@@ -1,0 +1,9 @@
+Michael, 10
+Johnson, 9
+John cena,7
+Jane Smith, 12
+Noah, 11
+James, 10
+Alexander, 10
+Mia, 12
+Sharukh Khan, 12
